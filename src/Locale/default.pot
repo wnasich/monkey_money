@@ -1,0 +1,409 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-09-01 00:41-0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "You are not authorized to access that location."
+msgstr ""
+
+msgid "New status has been assigned to closing."
+msgstr ""
+
+msgid "The closing could not be saved. Please, try again."
+msgstr ""
+
+msgid "The movement type has been saved."
+msgstr ""
+
+msgid "The movement type could not be saved. Please, try again."
+msgstr ""
+
+msgid "The movement type has been deleted."
+msgstr ""
+
+msgid "The movement type could not be deleted. Please, try again."
+msgstr ""
+
+msgid "The movement has been saved."
+msgstr ""
+
+msgid "The movement could not be saved. Please, try again."
+msgstr ""
+
+msgid "The movement has been deleted."
+msgstr ""
+
+msgid "The movement could not be deleted. Please, try again."
+msgstr ""
+
+msgid "The user has been saved."
+msgstr ""
+
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+msgid "The user has been deleted."
+msgstr ""
+
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+msgid "Invalid username or password, try again"
+msgstr ""
+
+msgid "Invalid operator"
+msgstr ""
+
+msgid "{cashierName}: Closing no. {closingNumber}"
+msgstr ""
+
+msgid "{cashierName}: Count of packages changed"
+msgstr ""
+
+msgid "{cashierName}: Packages out of level"
+msgstr ""
+
+msgid "{cashierName}: {closingStatus} closing no. {closingNumber}"
+msgstr ""
+
+msgid "{cashierName}: {movementType} {movementAmount, number, currency}"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "To verify"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "Removed"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Operator"
+msgstr ""
+
+msgid "Movement created"
+msgstr ""
+
+msgid "Closing created"
+msgstr ""
+
+msgid "Packages changed at closing"
+msgstr ""
+
+msgid "Out of levels at closing"
+msgstr ""
+
+msgid "Closing status changed"
+msgstr ""
+
+msgid "Please enter closing amount or check the option for ignore this message."
+msgstr ""
+
+msgid "Please pick a movement type"
+msgstr ""
+
+msgid "Please enter an amount"
+msgstr ""
+
+msgid "Please enter a valid email address"
+msgstr ""
+
+msgid "This email is already in use"
+msgstr ""
+
+msgid "Please enter a password"
+msgstr ""
+
+msgid "Closing amount"
+msgstr ""
+
+msgid "Amount to move out from cashier"
+msgstr ""
+
+msgid "Closing without money output"
+msgstr ""
+
+msgid "Change bills"
+msgstr ""
+
+msgid "Input quantity of each bill/coin"
+msgstr ""
+
+msgid "Input quantity of change packages"
+msgstr ""
+
+msgid "Change amount"
+msgstr ""
+
+msgid "Amount remain in cashier"
+msgstr ""
+
+msgid "Save closing"
+msgstr ""
+
+msgid "Are you sure you want to save closing?"
+msgstr ""
+
+msgid "Saving ..."
+msgstr ""
+
+msgid "The closing has been saved."
+msgstr ""
+
+msgid "Closing number:"
+msgstr ""
+
+msgid "Closing amount:"
+msgstr ""
+
+msgid "Change amount:"
+msgstr ""
+
+msgid "Closing"
+msgstr ""
+
+msgid "Change status"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Closings"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Estimated"
+msgstr ""
+
+msgid "Created by"
+msgstr ""
+
+msgid "Modified by"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Closing: {0}"
+msgstr ""
+
+msgid "Closing Amount"
+msgstr ""
+
+msgid "Change Amount"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Created By User"
+msgstr ""
+
+msgid "Modified By User"
+msgstr ""
+
+msgid "Movements"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Movement types"
+msgstr ""
+
+msgid "Toggle navigation"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Without changing"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Are you sure you want to delete \"{0}\" ?"
+msgstr ""
+
+msgid "Are you sure you want to delete movement of $ {0} ?"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "View closing"
+msgstr ""
+
+msgid "Previous closing"
+msgstr ""
+
+msgid "Current closing"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Available change amount"
+msgstr ""
+
+msgid "Packaged change amount"
+msgstr ""
+
+msgid "Estimated sales"
+msgstr ""
+
+msgid "Movement type"
+msgstr ""
+
+msgid "Date/Time"
+msgstr ""
+
+msgid "Output?"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Mark as verified"
+msgstr ""
+
+msgid "New status"
+msgstr ""
+
+msgid "New movement type"
+msgstr ""
+
+msgid "Edit movement type"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "View public"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgid "input"
+msgstr ""
+
+msgid "The {type} movement has been saved."
+msgstr ""
+
+msgid "New movement"
+msgstr ""
+
+msgid "Edit movement"
+msgstr ""
+
+msgid "Movement"
+msgstr ""
+
+msgid "Created By"
+msgstr ""
+
+msgid "No movements"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "New user"
+msgstr ""
+
+msgid "Edit user"
+msgstr ""
+
+msgid "-- Pick a role --"
+msgstr ""
+
+msgid "-- Pick an status --"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Current movements"
+msgstr ""
+
+msgid "Change left on last closing"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+

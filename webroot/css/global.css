@@ -1,0 +1,55 @@
+.navbar-brand img {
+    height: 50px;
+    margin-top: -16px;
+    display: inline;
+    float: left;
+}
+
+#new-movement-panel-body {
+	min-height: 328px;
+}
+
+#change-bills-box .form-group {
+	margin-bottom: 2px;
+}
+#change-bills-box .input-group-addon:first-child {
+	padding: 2px;
+	width: 69px;
+	max-width: 69px;
+	min-width: 69px;
+}
+#change-bills-box input {
+	padding: 10px 5px;
+	width: 64px;
+}
+#change-bills-box .input-group-addon:last-child {
+	padding: 1px 3px;
+	width: 100px;
+}
+
+#closing-change-details img.closing-bill,
+#closing-view-table img.closing-bill,
+#change-bills-box img.closing-bill {
+	height: 40px;
+}
+
+#calc-board .btn {
+	width: 46px;
+	height: 46px;
+	margin: 0 5px 5px 0;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 21px;
+}
+
+div.checkbox input[type="radio"],
+div.checkbox input[type="checkbox"] {
+	margin: 4px;
+}
+div.checkbox input[type="checkbox"] {
+	position: relative;
+}
+
+div.checkbox {
+	padding-left: 0;
+}
