@@ -9,6 +9,8 @@ Simple cash managment for minimarkets
 * Settings of desired level of bills/coins of each value.
 * User managment. Roles administrator and operator.
 
+![Screenshot: operator page](rsc/screenshots/operator_page.png?raw=true "Operator page")
+
 
 ## Installation
 * Clone this repository or [Download](https://github.com/wnasich/monkey_money/archive/master.zip)
