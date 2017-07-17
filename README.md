@@ -8,6 +8,7 @@ Simple cash managment for minimarkets
 * Reports via email.
 * Settings of desired level of bills/coins of each value.
 * User managment. Roles administrator and operator.
+* Suitable for touchscreen devices
 
 ![Screenshot: operator page](rsc/screenshots/operator_page.png?raw=true "Operator page")
 
@@ -37,7 +38,7 @@ Example for add CAD bills:
 
 * Create folder `webroot/img/closing_bills/cad`
 * Add images of bills and coins into created folder
-* Edit file `config/app.php` and chage the config value `currencyCode` to `cad`
+* Edit file `config/app.php` and change the config value `currencyCode` to `cad`
 * Clone the file `config/bills_ars.php` as `config/bills_cad.php` and edit it using the proper values
 
 
